@@ -35,40 +35,51 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
 </p>
 
-## Research Interests
-
-I investigate how development processes, tasks, and project-specific context
-affect the behavior and evaluation of AI coding agents.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
-</p>
-
 ## Tech Stack
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"
-    alt="Python"
-  >
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust">
-  <img
-    src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"
-    alt="TypeScript"
-  >
-  <img
-    src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white"
-    alt="Bash"
-  >
-  <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&amp;logo=nixos&amp;logoColor=white" alt="Nix">
-  <img
-    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"
-    alt="Docker"
-  >
-  <img
-    src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white"
-    alt="GitHub Actions"
-  >
+  <a href="https://github.com/search?q=user%3Afuredea+language%3APython&amp;type=repositories">
+    <img
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"
+      alt="Python repositories"
+    >
+  </a>
+  <a href="https://github.com/search?q=user%3Afuredea+language%3ARust&amp;type=repositories">
+    <img
+      src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white"
+      alt="Rust repositories"
+    >
+  </a>
+  <a href="https://github.com/search?q=user%3Afuredea+language%3ATypeScript&amp;type=repositories">
+    <img
+      src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"
+      alt="TypeScript repositories"
+    >
+  </a>
+  <a href="https://github.com/search?q=user%3Afuredea+language%3AShell&amp;type=repositories">
+    <img
+      src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white"
+      alt="Shell repositories"
+    >
+  </a>
+  <a href="https://github.com/search?q=user%3Afuredea+language%3ANix&amp;type=repositories">
+    <img
+      src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&amp;logo=nixos&amp;logoColor=white"
+      alt="Nix repositories"
+    >
+  </a>
+  <a href="https://github.com/search?q=user%3Afuredea+filename%3ADockerfile&amp;type=code">
+    <img
+      src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"
+      alt="Dockerfiles"
+    >
+  </a>
+  <a href="https://github.com/search?q=user%3Afuredea+path%3A.github%2Fworkflows&amp;type=code">
+    <img
+      src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white"
+      alt="GitHub Actions workflows"
+    >
+  </a>
 </p>
 
 <p align="center">
