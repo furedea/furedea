@@ -1,8 +1,14 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=4000&amp;pause=1000&amp;color=2F80ED&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=1000&amp;height=120&amp;lines=Hi%2C+I%27m+Kaito+Shigyo;Software+Engineering+Researcher;AI+Coding+Agents+%C3%97+Project+Context+%C3%97+Empirical+Evaluation"
-    alt="Kaito Shigyo — Software Engineering Researcher"
-  >
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=4000&amp;pause=1000&amp;color=4AF2C8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=1000&amp;height=120&amp;lines=Hi%2C+I%27m+Kaito+Shigyo;Software+Engineering+Researcher;AI+Coding+Agents+%C3%97+Project+Context+%C3%97+Empirical+Evaluation"
+    >
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=4000&amp;pause=1000&amp;color=0F766E&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=1000&amp;height=120&amp;lines=Hi%2C+I%27m+Kaito+Shigyo;Software+Engineering+Researcher;AI+Coding+Agents+%C3%97+Project+Context+%C3%97+Empirical+Evaluation"
+      alt="Kaito Shigyo — Software Engineering Researcher"
+    >
+  </picture>
 </p>
 
 <p align="center">
