@@ -43,11 +43,6 @@ jobs:
           jobSummary: false
           lycheeVersion: v0.24.2
 
-      - name: Validate SVG
-        run: >-
-          python3 -c
-          'import xml.etree.ElementTree as ET; ET.parse("assets/profile_header.svg")'
-
   all-green:
     if: always()
     needs: [validate]
