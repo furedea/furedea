@@ -20,12 +20,6 @@
       alt="Website"
     >
   </a>
-  <a href="https://ken.ieice.org/ken/paper/202607247cwN/">
-    <img
-      src="https://img.shields.io/badge/Publication-2F80ED?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white"
-      alt="Publication"
-    >
-  </a>
   <a href="https://zenn.dev/furedea">
     <img
       src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&amp;logo=zenn&amp;logoColor=white"
@@ -43,42 +37,8 @@
 
 ## Research Interests
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/AI_Coding_Agents-2F80ED?style=flat-square"
-    alt="AI Coding Agents"
-  >
-  <img
-    src="https://img.shields.io/badge/Empirical_Software_Engineering-2F80ED?style=flat-square"
-    alt="Empirical Software Engineering"
-  >
-  <img
-    src="https://img.shields.io/badge/Agent_Evaluation-2F80ED?style=flat-square"
-    alt="Agent Evaluation"
-  >
-  <img
-    src="https://img.shields.io/badge/Developer_Tooling-2F80ED?style=flat-square"
-    alt="Developer Tooling"
-  >
-</p>
-
 I investigate how development processes, tasks, and project-specific context
 affect the behavior and evaluation of AI coding agents.
-
-## Selected Work
-
-- **[FIRE-Bench](https://github.com/furedea/FIRE-Bench)** — Evaluating agents
-  on the rediscovery of scientific insights through claim-level analysis
-- **[swe-conform](https://github.com/furedea/swe-conform)** — Building reusable
-  tasks for evaluating coding agents against project guidelines
-- **[agent-harness](https://github.com/furedea/agent-harness)** — Managing agent
-  policies, skills, and safety controls in a portable harness
-
-## Publication
-
-### [Evaluating Coding Agents for Refactoring Under Project-Specific Conventions][publication]
-
-Kaito Shigyo, Masanari Kondo, and Yasutaka Kamei. IEICE Technical Report, 2026.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
@@ -157,5 +117,3 @@ Kaito Shigyo, Masanari Kondo, and Yasutaka Kamei. IEICE Technical Report, 2026.
     alt="Commit activity by time of day"
   >
 </p>
-
-[publication]: https://ken.ieice.org/ken/paper/202607247cwN/
