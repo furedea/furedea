@@ -1,16 +1,12 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=4000&amp;pause=1000&amp;color=2F80ED&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=120&amp;lines=Hi%2C+I%27m+Kaito+Shigyo+%F0%9F%91%8B;Software+Engineering+Researcher;AI+Coding+Agents+%7C+Empirical+Evaluation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=4000&amp;pause=1000&amp;color=2F80ED&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=1000&amp;height=120&amp;lines=Hi%2C+I%27m+Kaito+Shigyo;Software+Engineering+Researcher;AI+Coding+Agents+%C3%97+Project+Context+%C3%97+Empirical+Evaluation"
     alt="Kaito Shigyo — Software Engineering Researcher"
   >
 </p>
 
 <p align="center">
   Master's student at Kyushu University, Japan
-</p>
-
-<p align="center">
-  Researching reliable AI coding agents through empirical software engineering
 </p>
 
 <p align="center">
