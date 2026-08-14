@@ -35,15 +35,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
 </p>
 
-## Research Interests
-
-I investigate how development processes, tasks, and project-specific context
-affect the behavior and evaluation of AI coding agents.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
-</p>
-
 ## Tech Stack
 
 <p align="center">
