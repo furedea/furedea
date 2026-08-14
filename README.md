@@ -34,10 +34,9 @@ processes, tasks, and project-specific context affect **AI coding agents**.
 
 ## Publication
 
-**Evaluating Coding Agents for Refactoring Under Project-Specific Conventions**
+### [Evaluating Coding Agents for Refactoring Under Project-Specific Conventions][publication]
 
 Kaito Shigyo, Masanari Kondo, and Yasutaka Kamei. IEICE Technical Report, 2026.
-[Paper](https://ken.ieice.org/ken/paper/202607247cwN/)
 
 ## Latest writing
 
@@ -45,3 +44,4 @@ Kaito Shigyo, Masanari Kondo, and Yasutaka Kamei. IEICE Technical Report, 2026.
 — a practical tour of a modern, agent-oriented terminal environment.
 
 [terminal-article]: https://furedea.com/ja/blog/modern-terminal-environment/
+[publication]: https://ken.ieice.org/ken/paper/202607247cwN/

@@ -17,7 +17,7 @@ defaults:
     shell: bash
 
 jobs:
-  profile-readme:
+  validate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     permissions:
@@ -28,12 +28,29 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Verify profile README
-        run: bash tests/profile_readme_test.sh
+      - name: Verify README is not empty
+        run: test -s README.md
+
+      - name: Lint Markdown
+        uses: DavidAnson/markdownlint-cli2-action@21c1be1b93ad9ed58fa840aacc3f279cde2a72ff # v24.2.0
+        with:
+          globs: README.md
+
+      - name: Verify local references
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
+        with:
+          args: --offline --no-progress README.md
+          jobSummary: false
+          lycheeVersion: v0.24.2
+
+      - name: Validate SVG
+        run: >-
+          python3 -c
+          'import xml.etree.ElementTree as ET; ET.parse("assets/profile_header.svg")'
 
   all-green:
     if: always()
-    needs: [profile-readme]
+    needs: [validate]
     runs-on: ubuntu-latest
     timeout-minutes: 1
     permissions: {}
