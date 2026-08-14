@@ -1,16 +1,161 @@
-## Hi there 👋
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=4000&amp;pause=1000&amp;color=2F80ED&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=120&amp;lines=Hi%2C+I%27m+Kaito+Shigyo+%F0%9F%91%8B;Software+Engineering+Researcher;AI+Coding+Agents+%7C+Empirical+Evaluation"
+    alt="Kaito Shigyo — Software Engineering Researcher"
+  >
+</p>
 
-<!--
-**furedea/furedea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Master's student at Kyushu University, Japan
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Researching reliable AI coding agents through empirical software engineering
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://furedea.com">
+    <img
+      src="https://img.shields.io/badge/Website-181717?style=for-the-badge&amp;logo=astro&amp;logoColor=white"
+      alt="Website"
+    >
+  </a>
+  <a href="https://ken.ieice.org/ken/paper/202607247cwN/">
+    <img
+      src="https://img.shields.io/badge/Publication-2F80ED?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white"
+      alt="Publication"
+    >
+  </a>
+  <a href="https://zenn.dev/furedea">
+    <img
+      src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&amp;logo=zenn&amp;logoColor=white"
+      alt="Zenn"
+    >
+  </a>
+  <a href="https://x.com/furedea596">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
+</p>
+
+## Research Interests
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/AI_Coding_Agents-2F80ED?style=flat-square"
+    alt="AI Coding Agents"
+  >
+  <img
+    src="https://img.shields.io/badge/Empirical_Software_Engineering-2F80ED?style=flat-square"
+    alt="Empirical Software Engineering"
+  >
+  <img
+    src="https://img.shields.io/badge/Agent_Evaluation-2F80ED?style=flat-square"
+    alt="Agent Evaluation"
+  >
+  <img
+    src="https://img.shields.io/badge/Developer_Tooling-2F80ED?style=flat-square"
+    alt="Developer Tooling"
+  >
+</p>
+
+I investigate how development processes, tasks, and project-specific context
+affect the behavior and evaluation of AI coding agents.
+
+## Selected Work
+
+- **[FIRE-Bench](https://github.com/furedea/FIRE-Bench)** — Evaluating agents
+  on the rediscovery of scientific insights through claim-level analysis
+- **[swe-conform](https://github.com/furedea/swe-conform)** — Building reusable
+  tasks for evaluating coding agents against project guidelines
+- **[agent-harness](https://github.com/furedea/agent-harness)** — Managing agent
+  policies, skills, and safety controls in a portable harness
+
+## Publication
+
+### [Evaluating Coding Agents for Refactoring Under Project-Specific Conventions][publication]
+
+Kaito Shigyo, Masanari Kondo, and Yasutaka Kamei. IEICE Technical Report, 2026.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
+</p>
+
+## Tech Stack
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"
+    alt="Python"
+  >
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust">
+  <img
+    src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"
+    alt="TypeScript"
+  >
+  <img
+    src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white"
+    alt="Bash"
+  >
+  <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&amp;logo=nixos&amp;logoColor=white" alt="Nix">
+  <img
+    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"
+    alt="Docker"
+  >
+  <img
+    src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white"
+    alt="GitHub Actions"
+  >
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=furedea&amp;theme=transparent&amp;hide_border=true"
+    alt="GitHub contribution streak"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furedea&amp;theme=transparent"
+    width="100%"
+    alt="GitHub activity summary"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=furedea&amp;theme=transparent"
+    width="49%"
+    alt="GitHub statistics"
+  >
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=furedea&amp;theme=transparent"
+    width="49%"
+    alt="Most used commit languages"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furedea&amp;theme=transparent"
+    width="49%"
+    alt="Repositories by language"
+  >
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furedea&amp;theme=transparent&amp;utcOffset=9"
+    width="49%"
+    alt="Commit activity by time of day"
+  >
+</p>
+
+[publication]: https://ken.ieice.org/ken/paper/202607247cwN/
