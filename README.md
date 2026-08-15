@@ -91,42 +91,78 @@
 ## GitHub Stats
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=furedea&amp;theme=transparent&amp;hide_border=true"
-    alt="GitHub contribution streak"
-  >
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=furedea&amp;theme=transparent&amp;hide_border=true&amp;ring=4AF2C8&amp;fire=4AF2C8&amp;currStreakNum=4AF2C8&amp;currStreakLabel=4AF2C8&amp;sideNums=C9D1D9&amp;sideLabels=8B949E&amp;dates=8B949E&amp;stroke=30363D"
+    >
+    <img
+      src="https://streak-stats.demolab.com?user=furedea&amp;theme=transparent&amp;hide_border=true&amp;ring=0F766E&amp;fire=0F766E&amp;currStreakNum=0F766E&amp;currStreakLabel=0F766E&amp;sideNums=1F2937&amp;sideLabels=64748B&amp;dates=64748B&amp;stroke=D0D7DE"
+      alt="GitHub contribution streak"
+    >
+  </picture>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furedea&amp;theme=transparent"
-    width="100%"
-    alt="GitHub activity summary"
-  >
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furedea&amp;theme=transparent&amp;title_color=4AF2C8&amp;text_color=C9D1D9&amp;icon_color=4AF2C8&amp;chart_color=4AF2C8&amp;bg_color=00000000&amp;border_color=00000000"
+    >
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furedea&amp;theme=transparent&amp;title_color=0F766E&amp;text_color=1F2937&amp;icon_color=0F766E&amp;chart_color=0F766E&amp;bg_color=00000000&amp;border_color=00000000"
+      width="100%"
+      alt="GitHub activity summary"
+    >
+  </picture>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=furedea&amp;theme=transparent"
-    width="49%"
-    alt="GitHub statistics"
-  >
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=furedea&amp;theme=transparent"
-    width="49%"
-    alt="Most used commit languages"
-  >
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=furedea&amp;theme=transparent&amp;title_color=4AF2C8&amp;text_color=C9D1D9&amp;icon_color=4AF2C8&amp;chart_color=4AF2C8&amp;bg_color=00000000&amp;border_color=00000000"
+    >
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=furedea&amp;theme=transparent&amp;title_color=0F766E&amp;text_color=1F2937&amp;icon_color=0F766E&amp;chart_color=0F766E&amp;bg_color=00000000&amp;border_color=00000000"
+      width="49%"
+      alt="GitHub statistics"
+    >
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=furedea&amp;theme=transparent&amp;title_color=4AF2C8&amp;text_color=C9D1D9&amp;icon_color=4AF2C8&amp;chart_color=4AF2C8&amp;bg_color=00000000&amp;border_color=00000000"
+    >
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=furedea&amp;theme=transparent&amp;title_color=0F766E&amp;text_color=1F2937&amp;icon_color=0F766E&amp;chart_color=0F766E&amp;bg_color=00000000&amp;border_color=00000000"
+      width="49%"
+      alt="Most used commit languages"
+    >
+  </picture>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furedea&amp;theme=transparent"
-    width="49%"
-    alt="Repositories by language"
-  >
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furedea&amp;theme=transparent&amp;utcOffset=9"
-    width="49%"
-    alt="Commit activity by time of day"
-  >
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furedea&amp;theme=transparent&amp;title_color=4AF2C8&amp;text_color=C9D1D9&amp;icon_color=4AF2C8&amp;chart_color=4AF2C8&amp;bg_color=00000000&amp;border_color=00000000"
+    >
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furedea&amp;theme=transparent&amp;title_color=0F766E&amp;text_color=1F2937&amp;icon_color=0F766E&amp;chart_color=0F766E&amp;bg_color=00000000&amp;border_color=00000000"
+      width="49%"
+      alt="Repositories by language"
+    >
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furedea&amp;theme=transparent&amp;utcOffset=9&amp;title_color=4AF2C8&amp;text_color=C9D1D9&amp;icon_color=4AF2C8&amp;chart_color=4AF2C8&amp;bg_color=00000000&amp;border_color=00000000"
+    >
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furedea&amp;theme=transparent&amp;utcOffset=9&amp;title_color=0F766E&amp;text_color=1F2937&amp;icon_color=0F766E&amp;chart_color=0F766E&amp;bg_color=00000000&amp;border_color=00000000"
+      width="49%"
+      alt="Commit activity by time of day"
+    >
+  </picture>
 </p>
