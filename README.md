@@ -22,14 +22,14 @@
       alt="Website"
     >
   </a>
+  <a href="https://x.com/furedea596">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X">
+  </a>
   <a href="https://zenn.dev/furedea">
     <img
       src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&amp;logo=zenn&amp;logoColor=white"
       alt="Zenn"
     >
-  </a>
-  <a href="https://x.com/furedea596">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X">
   </a>
 </p>
 
