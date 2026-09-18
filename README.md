@@ -2,17 +2,13 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=4000&amp;pause=1000&amp;color=4AF2C8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=1000&amp;height=120&amp;lines=Hi%2C+I%27m+Kaito+Shigyo;Software+Engineering+Researcher;AI+Coding+Agents+%C3%97+Project+Context+%C3%97+Empirical+Evaluation"
+      srcset="assets/header-dark.svg"
     >
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=4000&amp;pause=1000&amp;color=0F766E&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=1000&amp;height=120&amp;lines=Hi%2C+I%27m+Kaito+Shigyo;Software+Engineering+Researcher;AI+Coding+Agents+%C3%97+Project+Context+%C3%97+Empirical+Evaluation"
-      alt="Kaito Shigyo — Software Engineering Researcher"
+      src="assets/header-light.svg"
+      alt="Kaito Shigyo — Software Engineering Researcher · Kyushu University"
     >
   </picture>
-</p>
-
-<p align="center">
-  Master's student at Kyushu University, Japan
 </p>
 
 <p align="center">
@@ -107,20 +103,6 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furedea&amp;theme=transparent&amp;title_color=4AF2C8&amp;text_color=C9D1D9&amp;icon_color=4AF2C8&amp;chart_color=4AF2C8&amp;bg_color=00000000&amp;border_color=00000000"
-    >
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furedea&amp;theme=transparent&amp;title_color=0F766E&amp;text_color=1F2937&amp;icon_color=0F766E&amp;chart_color=0F766E&amp;bg_color=00000000&amp;border_color=00000000"
-      width="100%"
-      alt="GitHub activity summary"
-    >
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
       srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=furedea&amp;theme=transparent&amp;title_color=4AF2C8&amp;text_color=C9D1D9&amp;icon_color=4AF2C8&amp;chart_color=4AF2C8&amp;bg_color=00000000&amp;border_color=00000000"
     >
     <img
@@ -138,31 +120,6 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=furedea&amp;theme=transparent&amp;title_color=0F766E&amp;text_color=1F2937&amp;icon_color=0F766E&amp;chart_color=0F766E&amp;bg_color=00000000&amp;border_color=00000000"
       width="49%"
       alt="Most used commit languages"
-    >
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furedea&amp;theme=transparent&amp;title_color=4AF2C8&amp;text_color=C9D1D9&amp;icon_color=4AF2C8&amp;chart_color=4AF2C8&amp;bg_color=00000000&amp;border_color=00000000"
-    >
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=furedea&amp;theme=transparent&amp;title_color=0F766E&amp;text_color=1F2937&amp;icon_color=0F766E&amp;chart_color=0F766E&amp;bg_color=00000000&amp;border_color=00000000"
-      width="49%"
-      alt="Repositories by language"
-    >
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furedea&amp;theme=transparent&amp;utcOffset=9&amp;title_color=4AF2C8&amp;text_color=C9D1D9&amp;icon_color=4AF2C8&amp;chart_color=4AF2C8&amp;bg_color=00000000&amp;border_color=00000000"
-    >
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furedea&amp;theme=transparent&amp;utcOffset=9&amp;title_color=0F766E&amp;text_color=1F2937&amp;icon_color=0F766E&amp;chart_color=0F766E&amp;bg_color=00000000&amp;border_color=00000000"
-      width="49%"
-      alt="Commit activity by time of day"
     >
   </picture>
 </p>

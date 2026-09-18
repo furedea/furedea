@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="175" viewBox="0 0 1000 175">
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; text-anchor: middle; }
+    .name { font-size: 40px; font-weight: 300; fill: #E6EDF3; letter-spacing: 7px; }
+    .sub { font-size: 17px; font-weight: 500; fill: #4AF2C8; }
+    .kw { font-size: 13px; font-weight: 400; fill: #8B949E; letter-spacing: 0.5px; }
+  </style>
+  <text x="500" y="66" class="name">KAITO SHIGYO</text>
+  <text x="500" y="106" class="sub">Software Engineering Researcher · Kyushu University</text>
+  <text x="500" y="138" class="kw">AI Coding Agents × Project Context × Empirical Evaluation</text>
+</svg>
