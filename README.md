@@ -34,8 +34,8 @@
 </p>
 
 <p align="center">
-  Researching how to evaluate coding agents. Building the harness to run them.<br>
-  <sub>コーディングエージェントを評価する研究と，それを動かす基盤づくりをしています．</sub>
+  Evaluating coding agents, and building the harness that runs them.<br>
+  <sub>コーディングエージェントを評価し，それを動かす基盤をつくる．</sub>
 </p>
 
 <p align="center">
