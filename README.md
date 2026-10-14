@@ -12,10 +12,6 @@
 </p>
 
 <p align="center">
-  Evaluating coding agents, and building the harness that runs them.
-</p>
-
-<p align="center">
   <a href="https://furedea.com">
     <img
       src="https://img.shields.io/badge/Website-181717?style=for-the-badge&amp;logo=astro&amp;logoColor=white"
