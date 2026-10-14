@@ -44,14 +44,12 @@
 
 ## Projects
 
-### [agent-harness](https://github.com/furedea/agent-harness) — start here
+**[agent-harness](https://github.com/furedea/agent-harness)** (2026–, Rust / Nix)
 
-A Nix-native, composable harness for Codex and Claude Code hooks, skills, and safety policies.
-Written in Rust and Nix, with design decisions recorded as
-[ADRs](https://github.com/furedea/agent-harness/tree/main/docs/adr).
-I use it every day through my [dotfiles](https://github.com/furedea/dotfiles).
-
-### Also
+One Nix configuration for the hooks, skills, and permission rules of both Codex and Claude Code.
+External skill and hook bundles such as herdr and moshi plug into the same configuration.
+Design decisions are recorded as [ADRs](https://github.com/furedea/agent-harness/tree/main/docs/adr).
+Runs daily in my [dotfiles](https://github.com/furedea/dotfiles).
 
 - **[reflex-state](https://github.com/furedea/reflex-state)** (2026, TypeScript) —
   Execution state for Pi coding agents, tracked outside the main LLM. Inspired by SKILL.state.
@@ -68,7 +66,7 @@ I use it every day through my [dotfiles](https://github.com/furedea/dotfiles).
 
 ## Research
 
-- [プロジェクト固有規約に準拠したリファクタリングにおけるコーディングエージェントの性能評価](https://ken.ieice.org/ken/paper/202607247cwN/)
+- [Evaluating Coding Agents for Refactoring Under Project-Specific Conventions](https://ken.ieice.org/ken/paper/202607247cwN/)
   — IEICE Technical Report SS2026-27, July 2026. Also presented at ASPIRE Summit 2026.
 
 ## Writing
