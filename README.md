@@ -33,6 +33,57 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
 </p>
 
+<p align="center">
+  Evaluating coding agents, and building the harness that runs them.<br>
+  <sub>コーディングエージェントを評価し，それを動かす基盤をつくる．</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
+</p>
+
+## Projects
+
+**[agent-harness](https://github.com/furedea/agent-harness)** (2026–, Rust / Nix)
+
+One Nix configuration for the hooks, skills, and permission rules of both Codex and Claude Code.
+External skill and hook bundles such as herdr and moshi plug into the same configuration.
+Design decisions are recorded as [ADRs](https://github.com/furedea/agent-harness/tree/main/docs/adr).
+Runs daily in my [dotfiles](https://github.com/furedea/dotfiles).
+
+- **[reflex-state](https://github.com/furedea/reflex-state)** (2026, TypeScript) —
+  Execution state for Pi coding agents, tracked outside the main LLM. Inspired by SKILL.state.
+- **[book-agent](https://github.com/furedea/book-agent)** (2025) —
+  A Claude Code command that turns notes from technical books into sub-agent definitions.
+  [Zenn](https://zenn.dev/furedea/articles/53b5117b389454)
+- **[LLM-chatbot](https://github.com/Okapi-dog/LLM-chatbot)** (2023–2024, team project) —
+  A LINE chatbot that recommends products with an LLM, supported by the Fukuoka Mitou program.
+  [My commits](https://github.com/Okapi-dog/LLM-chatbot/commits?author=furedea)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
+</p>
+
+## Research
+
+- [Evaluating Coding Agents for Refactoring Under Project-Specific Conventions](https://ken.ieice.org/ken/paper/202607247cwN/)
+  — IEICE Technical Report SS2026-27, July 2026. Also presented at ASPIRE Summit 2026.
+
+## Writing
+
+<!-- autocorrect-disable -->
+
+- [技術書知識を即戦力化！Sub Agent化から設計支援・レビューまでの最短フロー](https://zenn.dev/furedea/articles/53b5117b389454)
+  — Zenn, 2025
+- [ぼくのかんがえたさいきょうのターミナル環境 2026](https://zenn.dev/furedea/articles/modern-terminal-environment)
+  — Zenn, 2026
+
+<!-- autocorrect-enable -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
+</p>
+
 ## Tech Stack
 
 <p align="center">
