@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  Evaluating coding agents, and building the harness that runs them.
+</p>
+
+<p align="center">
   <a href="https://furedea.com">
     <img
       src="https://img.shields.io/badge/Website-181717?style=for-the-badge&amp;logo=astro&amp;logoColor=white"
@@ -27,15 +31,6 @@
       alt="Zenn"
     >
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
-</p>
-
-<p align="center">
-  Evaluating coding agents, and building the harness that runs them.<br>
-  <sub>コーディングエージェントを評価し，それを動かす基盤をつくる．</sub>
 </p>
 
 <p align="center">
