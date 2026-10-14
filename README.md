@@ -37,9 +37,11 @@
 
 **[agent-harness](https://github.com/furedea/agent-harness)** (2026–, Rust / Nix)
 
-One Nix configuration for the hooks, skills, and permission rules of both Codex and Claude Code.
-External skill and hook bundles such as herdr and moshi plug into the same configuration.
-Design decisions are recorded as [ADRs](https://github.com/furedea/agent-harness/tree/main/docs/adr).
+One Nix configuration for the hooks, skills, and permission rules of Claude Code, Codex, Devin, Hermes Agent, and pi.
+External skill and hook bundles such as [Herdr](https://herdr.dev/) and [moshi](https://getmoshi.app/) plug into the
+same configuration.
+Design decisions are recorded in the [design doc](https://github.com/furedea/agent-harness/blob/main/docs/DESIGN.md)
+and [ADRs](https://github.com/furedea/agent-harness/tree/main/docs/adr).
 Runs daily in my [dotfiles](https://github.com/furedea/dotfiles).
 
 - **[reflex-state](https://github.com/furedea/reflex-state)** (2026, TypeScript) —
