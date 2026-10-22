@@ -44,6 +44,20 @@ Design decisions are recorded in the [design doc](https://github.com/furedea/age
 and [ADRs](https://github.com/furedea/agent-harness/tree/main/docs/adr).
 Runs daily in my [dotfiles](https://github.com/furedea/dotfiles).
 
+<!-- autocorrect-disable -->
+
+- **[apple-mail-cli](https://github.com/furedea/apple-mail-cli)** (2026, Rust) —
+  A JSON CLI for reading and organizing every Apple Mail account on macOS through Apple Events,
+  without storing provider passwords. Prebuilt releases are on GitHub.
+- **[effort-or-luck](https://github.com/furedea/effort-or-luck)** (2026, TypeScript / Astro / React) —
+  努力か，運か: a browser game about job hunting in Japan. You live one student's year; then 100 versions
+  of you with different family support make the same choices, and you can change only the choices to
+  see what effort moves. [Play](https://furedea.com/effort-or-luck/)
+- **[dotfiles](https://github.com/furedea/dotfiles)** (2026, Nix) —
+  My macOS setup with nix-darwin and Home Manager, where agent-harness runs every day.
+
+<!-- autocorrect-enable -->
+
 - **[reflex-state](https://github.com/furedea/reflex-state)** (2026, TypeScript) —
   Execution state for Pi coding agents, tracked outside the main LLM. Inspired by SKILL.state.
 - **[book-agent](https://github.com/furedea/book-agent)** (2025) —
@@ -60,7 +74,7 @@ Runs daily in my [dotfiles](https://github.com/furedea/dotfiles).
 ## Research
 
 - [Evaluating Coding Agents for Refactoring Under Project-Specific Conventions](https://ken.ieice.org/ken/paper/202607247cwN/)
-  — IEICE Technical Report SS2026-27, July 2026. Also presented at ASPIRE Summit 2026.
+  — IEICE Technical Report SS2026-27, July 2026. Also presented at ASPIRE SE Summit 2026.
 
 ## Writing
 
