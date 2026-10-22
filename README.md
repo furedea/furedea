@@ -35,37 +35,15 @@
 
 ## Projects
 
-**[agent-harness](https://github.com/furedea/agent-harness)** (2026–, Rust / Nix)
-
-One Nix configuration for the hooks, skills, and permission rules of Claude Code, Codex, Devin, Hermes Agent, and pi.
-External skill and hook bundles such as [Herdr](https://herdr.dev/) and [moshi](https://getmoshi.app/) plug into the
-same configuration.
-Design decisions are recorded in the [design doc](https://github.com/furedea/agent-harness/blob/main/docs/DESIGN.md)
-and [ADRs](https://github.com/furedea/agent-harness/tree/main/docs/adr).
-Runs daily in my [dotfiles](https://github.com/furedea/dotfiles).
-
-<!-- autocorrect-disable -->
-
-- **[apple-mail-cli](https://github.com/furedea/apple-mail-cli)** (2026, Rust) —
-  A JSON CLI for reading and organizing every Apple Mail account on macOS through Apple Events,
-  without storing provider passwords. Prebuilt releases are on GitHub.
-- **[effort-or-luck](https://github.com/furedea/effort-or-luck)** (2026, TypeScript / Astro / React) —
-  努力か，運か: a browser game about job hunting in Japan. You live one student's year; then 100 versions
-  of you with different family support make the same choices, and you can change only the choices to
-  see what effort moves. [Play](https://furedea.com/effort-or-luck/)
-- **[dotfiles](https://github.com/furedea/dotfiles)** (2026, Nix) —
-  My macOS setup with nix-darwin and Home Manager, where agent-harness runs every day.
-
-<!-- autocorrect-enable -->
-
-- **[reflex-state](https://github.com/furedea/reflex-state)** (2026, TypeScript) —
-  Execution state for Pi coding agents, tracked outside the main LLM. Inspired by SKILL.state.
-- **[book-agent](https://github.com/furedea/book-agent)** (2025) —
-  A Claude Code command that turns notes from technical books into sub-agent definitions.
-  [Zenn](https://zenn.dev/furedea/articles/53b5117b389454)
-- **[LLM-chatbot](https://github.com/Okapi-dog/LLM-chatbot)** (2023–2024, team project) —
-  A LINE chatbot that recommends products with an LLM, supported by the Fukuoka Mitou program.
-  [My commits](https://github.com/Okapi-dog/LLM-chatbot/commits?author=furedea)
+| Project                                                     | What                                                                   | Stack             | Links                                                                       |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------------- |
+| [agent-harness](https://github.com/furedea/agent-harness)   | One Nix config for the hooks, skills, and permissions of coding agents | Rust, Nix         | [Design](https://github.com/furedea/agent-harness/blob/main/docs/DESIGN.md) |
+| [effort-or-luck](https://github.com/furedea/effort-or-luck) | A browser game: is job hunting effort or luck?                         | TypeScript, Astro | [Play](https://furedea.com/effort-or-luck/)                                 |
+| [apple-mail-cli](https://github.com/furedea/apple-mail-cli) | Read and organize Apple Mail from a JSON CLI                           | Rust              | [Releases](https://github.com/furedea/apple-mail-cli/releases)              |
+| [reflex-state](https://github.com/furedea/reflex-state)     | Execution state for coding agents, kept outside the LLM                | TypeScript        | —                                                                           |
+| [dotfiles](https://github.com/furedea/dotfiles)             | My macOS setup on nix-darwin, running agent-harness daily              | Nix               | —                                                                           |
+| [book-agent](https://github.com/furedea/book-agent)         | Turns technical-book notes into Claude Code sub-agents                 | —                 | [Zenn](https://zenn.dev/furedea/articles/53b5117b389454)                    |
+| [LLM-chatbot](https://github.com/Okapi-dog/LLM-chatbot)     | LINE chatbot recommending products with an LLM (team)                  | Python            | [Commits](https://github.com/Okapi-dog/LLM-chatbot/commits?author=furedea)  |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="">
