@@ -42,7 +42,6 @@
 | [dotfiles](https://github.com/furedea/dotfiles)             | My macOS setup on nix-darwin, running agent-harness daily                                 | Nix               | —                                                                           |
 | [furedea.com](https://github.com/furedea/furedea.com)       | My personal website and blog                                                              | TypeScript, Astro | [Visit](https://furedea.com)                                                |
 | [effort-or-luck](https://github.com/furedea/effort-or-luck) | A browser game: is job hunting effort or luck?                                            | TypeScript, Astro | [Play](https://furedea.com/effort-or-luck/)                                 |
-| [apple-mail-cli](https://github.com/furedea/apple-mail-cli) | Read and organize Apple Mail from a JSON CLI                                              | Rust              | [Releases](https://github.com/furedea/apple-mail-cli/releases)              |
 | [book-agent](https://github.com/furedea/book-agent)         | Turns technical-book notes into Claude Code sub-agents                                    | —                 | [Zenn](https://zenn.dev/furedea/articles/53b5117b389454)                    |
 | [LLM-chatbot](https://github.com/Okapi-dog/LLM-chatbot)     | LINE chatbot recommending products with an LLM (team)                                     | Python            | [Commits](https://github.com/Okapi-dog/LLM-chatbot/commits?author=furedea)  |
 
