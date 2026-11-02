@@ -102,4 +102,22 @@
       alt="Shell code"
     >
   </a>
+  <a href="https://github.com/search?q=user%3Afuredea+language%3ANix&amp;type=code">
+    <img
+      src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&amp;logo=nixos&amp;logoColor=white"
+      alt="Nix code"
+    >
+  </a>
+  <a href="https://github.com/search?q=user%3Afuredea+path%3A%2A%2A%2FDockerfile&amp;type=code">
+    <img
+      src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"
+      alt="Dockerfiles"
+    >
+  </a>
+  <a href="https://github.com/search?q=user%3Afuredea+path%3A.github%2Fworkflows&amp;type=code">
+    <img
+      src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white"
+      alt="GitHub Actions workflows"
+    >
+  </a>
 </p>
