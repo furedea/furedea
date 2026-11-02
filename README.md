@@ -42,7 +42,7 @@
 | [dotfiles](https://github.com/furedea/dotfiles)             | My macOS setup on nix-darwin, running agent-harness daily                                 | Nix               | —                                                                           |
 | [furedea.com](https://github.com/furedea/furedea.com)       | My personal website and blog                                                              | TypeScript, Astro | [Visit](https://furedea.com)                                                |
 | [effort-or-luck](https://github.com/furedea/effort-or-luck) | A browser game: is job hunting effort or luck?                                            | TypeScript, Astro | [Play](https://furedea.com/effort-or-luck/)                                 |
-| [book-agent](https://github.com/furedea/book-agent)         | Turns technical-book notes into Claude Code sub-agents                                    | —                 | [Zenn](https://zenn.dev/furedea/articles/53b5117b389454)                    |
+| [rater](https://github.com/furedea/rater)                   | Terminal annotation tool: label, measure agreement, adjudicate, and serve over SSH        | Go                | [Release](https://github.com/furedea/rater/releases/latest)                 |
 | [LLM-chatbot](https://github.com/Okapi-dog/LLM-chatbot)     | LINE chatbot recommending products with an LLM (team)                                     | Python            | [Commits](https://github.com/Okapi-dog/LLM-chatbot/commits?author=furedea)  |
 
 <p align="center">
